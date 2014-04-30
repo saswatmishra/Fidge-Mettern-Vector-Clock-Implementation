@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Softwares/JavaSCTP-0-5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Saswat/Downloads/Documents/Documents/MS-4th sem/AOS/sctp-impl-1.0.0.CR2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.7.0_04"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
